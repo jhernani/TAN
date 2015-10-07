@@ -1,0 +1,13 @@
+
+#active{
+	background: none repeat scroll 0 0 #59fac7;
+	color: #666699;
+}
+#inactive{
+	background: none repeat scroll 0 0 red;
+	color: #ffffff;
+}
+#statusdefault{
+	background: none repeat scroll 0 0 white;
+ 
+}
